@@ -1,3 +1,0 @@
-/workspaces/OFDM-PHY-Layer-Simulato/build/CMakeFiles/ofdm_phy_simulator.dir
-/workspaces/OFDM-PHY-Layer-Simulato/build/CMakeFiles/edit_cache.dir
-/workspaces/OFDM-PHY-Layer-Simulato/build/CMakeFiles/rebuild_cache.dir
